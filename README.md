@@ -1,6 +1,6 @@
 # 开发架构建设
 
-![概述](./asset/index.png)
+![概述](./summary.png)
 
 ## 1 开发环境搭建
 
