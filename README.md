@@ -13,7 +13,9 @@
 1. 技术选型
 2. [规范约定](https://github.com/xix-team/spec)
 3. 架构设计
-4. [工具拓展](https://github.com/xix-team/efit)
+4. 工具拓展
+    - https://github.com/xix-team/efit
+    - https://github.com/xix-team/ci-tool
 5. 流程整合
 6. 性能优化
 7. 安全防护
@@ -21,9 +23,10 @@
 9. 运维布署
 10. 统计监控
 11. 脚手架建设
-  - https://github.com/xix-scaffold 
-  - https://github.com/efit-scaffold
+    - https://github.com/xix-scaffold 
+    - https://github.com/efit-scaffold
 12. 包仓库建设
+    - https://github.com/rlidwka/sinopia
 
 ### 2.2 后端开发体系建设
 
